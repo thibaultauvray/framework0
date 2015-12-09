@@ -1,3 +1,9 @@
+# Subject
+
+Mise en place d'un site avec un panel admin CRUD, HTTPS, et un système de newsletter avec CakePHP.
+
+[Sujet Framework 0] (https://github.com/thibaultauvray/framework0/blob/master/subject-framework0.pdf)
+
 # CakePHP
 
 [![Latest Stable Version](https://poser.pugx.org/cakephp/cakephp/v/stable.svg)](https://packagist.org/packages/cakephp/cakephp)
