@@ -1,0 +1,273 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	background-color: #F2F2F2;
+	color: #333;
+}
+
+a{
+	color: #333;
+}
+
+
+nav.menu{
+	border-bottom: 1px solid #ddd;
+	background-color: white;
+	height: 62px;
+}
+
+a:hover, a:active{
+	text-decoration: none;
+	color: #F48969;
+}
+h1{
+	margin: 0.67em 0;
+}
+
+.menuspan{
+	height: 32px;
+	width: 32px;
+	display: inline-block;
+	background-repeat: no-repeat;
+	vertical-align: -7px;
+	margin-right: 15px;
+}
+
+.notif
+{
+	background-color: #dff0d8;
+    border-color: #d6e9c6;
+    color: #3c763d;
+     border-radius: 4px;
+    margin-top: 20px;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.notif p
+{
+	margin: 0;
+}
+
+.pagination span{
+	background-color: #fff;
+    border: 1px solid #ddd;
+    color: ##f48969;
+    float: left;
+    line-height: 1.42857;
+    margin-left: -1px;
+    padding: 6px 12px;
+    position: relative;
+    text-decoration: none;
+}
+
+
+.pagination .current
+{
+	background-color: #f48969;
+	color : #FFFFFF;
+}
+.men > li > a{
+	padding-bottom: 13px;
+}
+.men a:hover{
+	background-color: white !important;
+}
+.logo{
+	background: url('/img/logo.png');
+}
+
+.top{
+	background: url('/img/star138.png');
+}
+
+.rand{
+	background: url('/img/random3.png')
+}
+
+.home h1{
+	 font-family: Source Code Pro;
+    font-size: 22px;
+    font-weight: 600px;
+    vertical-align: middle;
+}
+.random a:hover, .top_li a:hover{
+	background-color: white;
+	border-bottom: 2px solid #F48969;
+}
+
+.post {
+	background: white;
+	-moz-box-shadow: 2px 2px 2px 0px #D3D1CD;
+-webkit-box-shadow: 2px 2px 2px 0px #D3D1CD;
+-o-box-shadow: 2px 2px 2px 0px #D3D1CD;
+box-shadow: 2px 2px 2px 0px #D3D1CD;
+filter:progid:DXImageTransform.Microsoft.Shadow(color=#D3D1CD, Direction=134, Strength=2);
+    border-radius: 5px;
+    border: 1px solid #ddd;
+	margin-bottom: 15px;
+    margin-top: 15px;
+    padding: 15px;
+    width: 100%;
+}
+
+.post h2{
+ 	border-bottom: 1px solid #f48969;
+    margin-bottom: 2px;
+    margin-top: 0;
+    padding-bottom: 5px;
+}
+
+.post .auteur{
+    display: inline-block;
+    font-family: Source Code Pro;
+    font-size: 12px;
+    font-style: italic;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.post .auteur .user{
+    color: #F48969;
+
+}
+
+.post .txte{
+	width: 100%;
+	font-style: italic;
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+.post .vote{
+ display: inline-block;
+    height: 25px;
+    text-align: center;
+    width: 39px;
+
+}
+
+.side_dr{
+	width: 360px;
+}
+.content-post div{
+	float: left;
+}
+
+.info{
+	 display: inline-block;
+    width: 100%;
+}
+
+.post .up{
+    background: url("/img/play.png") no-repeat scroll -2px 2px  rgba(0, 0, 0, 0);
+}
+
+.post .down{
+	background: url("/img/playd.png") no-repeat scroll -2px 2px  rgba(0, 0, 0, 0);
+}
+
+.btn-primary, input[type="submit"]
+{
+    background-color: #f48969;
+    border: medium none;
+    font-weight: bold;
+    padding: 9px 31px;
+    color: white;
+}
+
+.btn-primary:hover , .btn-primary:active, input[type="submit"]:hover, input[type="submit"]:active
+
+{
+	  background-color: #f2f2f2;
+    border: 1px solid #f48969;
+    color: #f48969;
+}
+
+.post img{
+	margin-bottom: 10px;
+}
+.main-post{
+	 margin-right: 50px;
+    width: 725px;
+}
+
+.register{
+	 display: table-cell;
+    float: right;
+    height: 62px;
+    line-height: 57px;
+}
+
+.register .btn:first-child{
+	margin-right: 10px;
+}
+.register button{
+	line-height: normal;
+}
+
+.form-con .post{
+	float: left;
+	width: 45%;
+}
+
+.form-con label{
+	width: 130px;
+}
+#UserLoginForm input, #AdminIndexForm input {
+	width: 100%;
+	
+}
+
+#UserLoginForm legend, #AdminIndexForm legend{
+	margin-bottom: 0;
+}
+#UserLoginForm label, #AdminIndexForm label
+{
+	margin-top: 10px;
+}
+
+#UserLoginForm .submit, #AdminIndexForm .submit{
+	margin-top: 10px;
+}
+
+.error label{
+	color: #d9534f;
+}
+.error-message{
+	color: #d9534f;
+    margin-bottom: 6px;
+    margin-top: 5px;
+}
+
+#UserIndexForm .checkbox label
+{
+	padding: 0;
+    width: 275px;
+}
+#UserIndexForm input{
+	left: 280px;
+}
+.errornotifa{
+	background-color: #D9534F;
+	color:white;
+}
+
+.adminForm label{
+	width: 150px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 0;
+}
+
+.adminForm input[type="checkbox"]{
+	left: 170px;
+	top: 6px;
+}
+
+.adminForm .btn{
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+.adminForm .error{
+	color: #d9534f;
+}

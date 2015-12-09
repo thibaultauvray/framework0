@@ -1,0 +1,802 @@
+2015-05-09 08:37:36 Notice: Notice (8): Undefined index: Vote in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 69]
+Trace:
+PostsController::updateVote() - APP/Controller/PostsController.php, line 69
+PostsController::index() - APP/Controller/PostsController.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-09 08:37:36 Notice: Notice (8): Undefined index: Vote in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 69]
+Trace:
+PostsController::updateVote() - APP/Controller/PostsController.php, line 69
+PostsController::index() - APP/Controller/PostsController.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-09 08:37:36 Notice: Notice (8): Undefined index: Vote in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 71]
+Trace:
+PostsController::updateVote() - APP/Controller/PostsController.php, line 71
+PostsController::index() - APP/Controller/PostsController.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-09 08:44:10 Notice: Notice (8): Undefined index: Vote in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 74]
+Trace:
+PostsController::updateVote() - APP/Controller/PostsController.php, line 74
+PostsController::index() - APP/Controller/PostsController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-09 08:44:10 Notice: Notice (8): Undefined index: Vote in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 74]
+Trace:
+PostsController::updateVote() - APP/Controller/PostsController.php, line 74
+PostsController::index() - APP/Controller/PostsController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-09 08:44:10 Notice: Notice (8): Undefined index: Vote in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 76]
+Trace:
+PostsController::updateVote() - APP/Controller/PostsController.php, line 76
+PostsController::index() - APP/Controller/PostsController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-09 09:36:40 Notice: Notice (8): Undefined variable: id in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 167]
+Trace:
+PostsController::single() - APP/Controller/PostsController.php, line 167
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 10]
+Trace:
+include - APP/View/Posts/top.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Admins in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 15]
+Trace:
+include - APP/View/Posts/top.ctp, line 15
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 17]
+Trace:
+include - APP/View/Posts/top.ctp, line 17
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 17]
+Trace:
+include - APP/View/Posts/top.ctp, line 17
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 20]
+Trace:
+include - APP/View/Posts/top.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 25]
+Trace:
+include - APP/View/Posts/top.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 32]
+Trace:
+include - APP/View/Posts/top.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined variable: count in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 64]
+Trace:
+PostsController::count_neg() - APP/Controller/PostsController.php, line 64
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+Object::requestAction() - CORE/Cake/Core/Object.php, line 106
+include - APP/View/Posts/top.ctp, line 33
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 38]
+Trace:
+include - APP/View/Posts/top.ctp, line 38
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 45]
+Trace:
+include - APP/View/Posts/top.ctp, line 45
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined variable: count in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 64]
+Trace:
+PostsController::count_neg() - APP/Controller/PostsController.php, line 64
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+Object::requestAction() - CORE/Cake/Core/Object.php, line 106
+include - APP/View/Posts/top.ctp, line 46
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 10]
+Trace:
+include - APP/View/Posts/top.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Admins in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 15]
+Trace:
+include - APP/View/Posts/top.ctp, line 15
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 17]
+Trace:
+include - APP/View/Posts/top.ctp, line 17
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 17]
+Trace:
+include - APP/View/Posts/top.ctp, line 17
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 20]
+Trace:
+include - APP/View/Posts/top.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 25]
+Trace:
+include - APP/View/Posts/top.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 32]
+Trace:
+include - APP/View/Posts/top.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined variable: count in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 64]
+Trace:
+PostsController::count_neg() - APP/Controller/PostsController.php, line 64
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+Object::requestAction() - CORE/Cake/Core/Object.php, line 106
+include - APP/View/Posts/top.ctp, line 33
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 38]
+Trace:
+include - APP/View/Posts/top.ctp, line 38
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 45]
+Trace:
+include - APP/View/Posts/top.ctp, line 45
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:33 Notice: Notice (8): Undefined variable: count in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 64]
+Trace:
+PostsController::count_neg() - APP/Controller/PostsController.php, line 64
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+Object::requestAction() - CORE/Cake/Core/Object.php, line 106
+include - APP/View/Posts/top.ctp, line 46
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 10]
+Trace:
+include - APP/View/Posts/top.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Admins in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 15]
+Trace:
+include - APP/View/Posts/top.ctp, line 15
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 17]
+Trace:
+include - APP/View/Posts/top.ctp, line 17
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 17]
+Trace:
+include - APP/View/Posts/top.ctp, line 17
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 20]
+Trace:
+include - APP/View/Posts/top.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 25]
+Trace:
+include - APP/View/Posts/top.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 32]
+Trace:
+include - APP/View/Posts/top.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined variable: count in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 64]
+Trace:
+PostsController::count_neg() - APP/Controller/PostsController.php, line 64
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+Object::requestAction() - CORE/Cake/Core/Object.php, line 106
+include - APP/View/Posts/top.ctp, line 33
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 38]
+Trace:
+include - APP/View/Posts/top.ctp, line 38
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 45]
+Trace:
+include - APP/View/Posts/top.ctp, line 45
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined variable: count in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 64]
+Trace:
+PostsController::count_neg() - APP/Controller/PostsController.php, line 64
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+Object::requestAction() - CORE/Cake/Core/Object.php, line 106
+include - APP/View/Posts/top.ctp, line 46
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 10]
+Trace:
+include - APP/View/Posts/top.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Admins in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 15]
+Trace:
+include - APP/View/Posts/top.ctp, line 15
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 17]
+Trace:
+include - APP/View/Posts/top.ctp, line 17
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 17]
+Trace:
+include - APP/View/Posts/top.ctp, line 17
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 20]
+Trace:
+include - APP/View/Posts/top.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 25]
+Trace:
+include - APP/View/Posts/top.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 32]
+Trace:
+include - APP/View/Posts/top.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined variable: count in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 64]
+Trace:
+PostsController::count_neg() - APP/Controller/PostsController.php, line 64
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+Object::requestAction() - CORE/Cake/Core/Object.php, line 106
+include - APP/View/Posts/top.ctp, line 33
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 38]
+Trace:
+include - APP/View/Posts/top.ctp, line 38
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined index: Post in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/top.ctp, line 45]
+Trace:
+include - APP/View/Posts/top.ctp, line 45
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 02:34:34 Notice: Notice (8): Undefined variable: count in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 64]
+Trace:
+PostsController::count_neg() - APP/Controller/PostsController.php, line 64
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+Object::requestAction() - CORE/Cake/Core/Object.php, line 106
+include - APP/View/Posts/top.ctp, line 46
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:17:24 Notice: Notice (8): Undefined variable: id in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 166]
+Trace:
+PostsController::single() - APP/Controller/PostsController.php, line 166
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:16 Notice: Notice (8): Undefined variable: id in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 166]
+Trace:
+PostsController::single() - APP/Controller/PostsController.php, line 166
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:23 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 5]
+Trace:
+include - APP/View/Posts/random.ctp, line 5
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:23 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 6]
+Trace:
+include - APP/View/Posts/random.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:25 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 5]
+Trace:
+include - APP/View/Posts/random.ctp, line 5
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:25 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 6]
+Trace:
+include - APP/View/Posts/random.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:26 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 5]
+Trace:
+include - APP/View/Posts/random.ctp, line 5
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:26 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 6]
+Trace:
+include - APP/View/Posts/random.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:27 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 5]
+Trace:
+include - APP/View/Posts/random.ctp, line 5
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:27 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 6]
+Trace:
+include - APP/View/Posts/random.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:28 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 5]
+Trace:
+include - APP/View/Posts/random.ctp, line 5
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:28 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 6]
+Trace:
+include - APP/View/Posts/random.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:28 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 5]
+Trace:
+include - APP/View/Posts/random.ctp, line 5
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:28 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 6]
+Trace:
+include - APP/View/Posts/random.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:29 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 5]
+Trace:
+include - APP/View/Posts/random.ctp, line 5
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:29 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 6]
+Trace:
+include - APP/View/Posts/random.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:38 Notice: Notice (8): Undefined variable: value in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/View/Posts/random.ctp, line 6]
+Trace:
+include - APP/View/Posts/random.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:39 Notice: Notice (8): Undefined variable: id in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 166]
+Trace:
+PostsController::single() - APP/Controller/PostsController.php, line 166
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-05-11 03:18:43 Notice: Notice (8): Undefined variable: id in [/Volumes/Data/nfs/zfs-student-2/users/2014/tauvray/mamp/apps/framework0/htdocs/app/Controller/PostsController.php, line 166]
+Trace:
+PostsController::single() - APP/Controller/PostsController.php, line 166
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
